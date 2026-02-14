@@ -1,0 +1,21 @@
+# Build artifacts
+.build/
+zelerK.app/
+Zelerk.app/
+*.dmg
+dmg_contents/
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+
+# macOS
+.DS_Store
+._*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
